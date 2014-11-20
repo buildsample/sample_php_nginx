@@ -1,5 +1,6 @@
 language: php
 
+
 php:
   - 5.4
   - 5.5
@@ -24,4 +25,4 @@ script:
 after_script:
   - sudo service nginx stop
 #cache: true 
-build_image: shippable/minv2
+#build_image: shippable/minv2
