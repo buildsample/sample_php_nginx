@@ -1,7 +1,7 @@
 language: php
 
 
-build_image: shippable/minv2:beta
+#build_image: shippable/minv2:beta
 
 
 php:
